@@ -1,0 +1,7 @@
+{
+  "name": "Pearl Coast Rebirth Story",
+  "description": "A scrollytelling experience showcasing the transformation of Taoyuan's Pearl Coast through four major infrastructure projects and local partner stories.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
